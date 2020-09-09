@@ -232,6 +232,7 @@ html, body {
     -moz-transform: translateY(-50%);
     -o-transform: translateY(-50%);
     z-index: 2;
+    margin-top: 80px;
 }
 
 .hero .col-md-6:last-child {
@@ -254,8 +255,9 @@ html, body {
 } 
 
 .hero img {
-    height: 600px;
-    border-radius: 300px;
+    height: 500px;
+    border-radius: 250px;
+    margin-bottom: 160px;
 }
 
 /* SITEMAIN
